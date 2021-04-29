@@ -1,0 +1,111 @@
+export const university_data = [
+  {
+    alpha_two_code: "IN",
+    country: "India",
+    domain: "du.ac.in",
+    name: "Delhi University",
+    web_page: "https://www.du.ac.in/",
+  },
+  {
+    alpha_two_code: "US",
+    country: "United States",
+    domain: "du.ac.in",
+    name: "MIT",
+    web_page: "https://www.du.ac.in/",
+  },
+  {
+    alpha_two_code: "US",
+    country: "United States",
+    domain: "du.ac.in",
+    name: "Stanford University",
+    web_page: "https://www.du.ac.in/",
+  },
+  {
+    alpha_two_code: "US",
+    country: "United States",
+    domain: "du.ac.in",
+    name: "Stanford University",
+    web_page: "https://www.du.ac.in/",
+  },
+  {
+    alpha_two_code: "US",
+    country: "United States",
+    domain: "du.ac.in",
+    name: "Stanford University",
+    web_page: "https://www.du.ac.in/",
+  },
+  {
+    alpha_two_code: "US",
+    country: "United States",
+    domain: "du.ac.in",
+    name: "Stanford University",
+    web_page: "https://www.du.ac.in/",
+  },
+  {
+    alpha_two_code: "US",
+    country: "United States",
+    domain: "du.ac.in",
+    name: "Stanford University",
+    web_page: "https://www.du.ac.in/",
+  },
+  {
+    alpha_two_code: "US",
+    country: "United States",
+    domain: "du.ac.in",
+    name: "Stanford University",
+    web_page: "https://www.du.ac.in/",
+  },
+  {
+    alpha_two_code: "US",
+    country: "United States",
+    domain: "du.ac.in",
+    name: "Stanford University",
+    web_page: "https://www.du.ac.in/",
+  },
+  {
+    alpha_two_code: "US",
+    country: "United States",
+    domain: "du.ac.in",
+    name: "Stanford University",
+    web_page: "https://www.du.ac.in/",
+  },
+  {
+    alpha_two_code: "US",
+    country: "United States",
+    domain: "du.ac.in",
+    name: "Stanford University",
+    web_page: "https://www.du.ac.in/",
+  },
+  {
+    alpha_two_code: "US",
+    country: "United States",
+    domain: "du.ac.in",
+    name: "Stanford University",
+    web_page: "https://www.du.ac.in/",
+  },
+  {
+    alpha_two_code: "US",
+    country: "United States",
+    domain: "du.ac.in",
+    name: "Stanford University",
+    web_page: "https://www.du.ac.in/",
+  },
+  {
+    alpha_two_code: "US",
+    country: "United States",
+    domain: "du.ac.in",
+    name: "Stanford University",
+    web_page: "https://www.du.ac.in/",
+  },
+];
+
+export const countries_data = [
+  {
+    country: "India",
+    alpha_two_code: "IN",
+  },
+  {
+    country: "United States",
+    alpha_two_code: "US",
+  },
+];

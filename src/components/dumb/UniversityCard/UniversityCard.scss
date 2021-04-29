@@ -1,0 +1,23 @@
+.university {
+  border: 1px solid #eee;
+  margin: 5px;
+  padding: 10px;
+  height: 100px;
+  width: 250px;
+}
+.university:hover {
+  box-shadow: 4px 8px 9px 1px #eee;
+}
+.link{
+  text-decoration: none;
+  color: skyblue;
+}
+@media screen and (max-width: 426px) {
+  .university{
+  border: 1px solid #eee;
+  margin: 6px;
+  padding: 6px;
+  height: 125px;
+  width: 125px;
+  }
+}

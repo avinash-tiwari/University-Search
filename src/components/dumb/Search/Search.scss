@@ -1,0 +1,27 @@
+.search {
+  input {
+    width: 35%;
+    height: 25px;
+    border: unset;
+    border-bottom: 1px solid black;
+  }
+  input:focus-visible {
+    outline: unset;
+  }
+}
+
+@media screen and (max-width: 426px) {
+  .search{
+  input {
+    width: 56%;
+    padding-left: 73px;
+    height: 25px;
+    font-size: 18px;
+    border: unset;
+    border-bottom: 1px solid black;
+  }
+  input:focus-visible {
+    outline: unset;
+  }
+  }
+}
